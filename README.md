@@ -4,7 +4,7 @@
 ***
 <br>Machine Learning (ML) e Inteligência Artificial (IA) são campos inter-relacionados que buscam desenvolver sistemas capazes de aprender e realizar tarefas de forma **autônoma**, sem programação explícita.
 
-##**Machine Learning:**
+##Machine Learning:
 
 ML é um subset da IA que se concentra em criar algoritmos e modelos que podem aprender padrões a partir de dados.
 <br>
@@ -16,7 +16,8 @@ No *aprendizado não supervisionado*, o modelo é alimentado com dados não rotu
 <br>
 O *aprendizado por reforço* envolve um agente que toma decisões em um ambiente para maximizar uma recompensa ao longo do tempo.
 <br>
-##**Inteligência Artificial:**
+
+##Inteligência Artificial:
 
 IA é um campo **mais amplo** que se preocupa em criar sistemas que podem realizar tarefas que normalmente requerem inteligência humana.
 Além de ML, a IA inclui áreas como processamento de linguagem natural (PLN)🎔, visão computacional, raciocínio lógico, planejamento e resolução de problemas.
