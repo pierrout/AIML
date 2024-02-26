@@ -23,7 +23,8 @@ IA é um campo **mais amplo** que se preocupa em criar sistemas que podem realiz
 Além de ML, a IA inclui áreas como processamento de linguagem natural (PLN)🎔, visão computacional, raciocínio lógico, planejamento e resolução de problemas.
 O objetivo da IA é criar máquinas capazes de imitar certos aspectos da inteligência humana, como aprendizado, adaptação, raciocínio e interação.
 <br>
-Aplicações Práticas:
+
+**Aplicações Práticas:**
 <br>
 Algoritmos de ML são frequentemente usados para análise de dados, previsão de tendências, diagnósticos médicos, reconhecimento de voz e imagem, entre outras tarefas.
 A IA, por sua vez, está presente em assistentes virtuais, carros autônomos, chatbots, sistemas de recomendação e diversas outras soluções.
